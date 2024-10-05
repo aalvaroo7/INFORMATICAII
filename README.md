@@ -5,7 +5,7 @@ Por Daniel Jose y Álvaro Martín
 
 ## EJERCICIO 1 (criterios)
 
-### 1. Enunciado
+### Enunciado primer ejercicio
 Crea una página web de "Reserva de Eventos" con las siguientes características:
 
 #### 1. Estructura Semántica
